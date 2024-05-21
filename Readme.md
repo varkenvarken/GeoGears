@@ -12,7 +12,7 @@ It is also fairly well documented in the nodes setup itself.
 
 ## usage
 
-The file GeoGears21.blend contains a geometry node called `Gear`.
+The file [GeoGears.blend] contains a geometry node called `Gear`.
 
 - add any mesh object to your scene,
 - switch to the Geometry Nodes layout and
