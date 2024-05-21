@@ -27,7 +27,7 @@ The node will appear in the Modifier panel of the Properties where you can chang
 
 - Module
 
-    the distance between two teeth
+    the distance between two teeth. Only gears with the same module will mesh properly
 
 - Teeth
 
