@@ -53,6 +53,10 @@ The node will appear in the Modifier panel of the Properties where you can chang
 
     the extra amount of space below the dedendum circle as a percentage of the module. Necessary to prevent to tips of the teeth hit the bottom land of the other gear.
 
+- Center radius
+
+    radius of the hole through the center. Cannot be zero at the moment.
+
 ### the Presentation panel
 
 Allows some control of the quality of the generated mesh and the way it might be rendered.
